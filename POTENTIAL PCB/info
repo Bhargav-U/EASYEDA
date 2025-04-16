@@ -1,0 +1,272 @@
+{
+  "uuid": "2447aa828e21a6532d52d17e8565a262",
+  "path": "Offline/POTENTIAL%20PCB",
+  "name": "POTENTIAL PCB",
+  "content": "",
+  "created_at": "2025-03-06 15:04:40",
+  "updated_at": "2025-03-27 13:30:23",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "b8d7ff708e908c17b52381d432b5af79",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0b20493762aa46eaab9651966a080c6c": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 1,
+        "d8faeba5b38d4fe0b986f32cd3b27dae": 1,
+        "22945343886b61ca2259b26c7cb76baa": 1,
+        "bdb54bbe97fc4a728c9e1b9231409e81": 1,
+        "66ca0f32c66c4629b3913859d7df62db": 1,
+        "4839e600161745f1af0afe53dafb495c": 1,
+        "c2606d8812424bf3b241ab9fdefd3143": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "BUZZER",
+          1,
+          "BUZ-TH_BD6.7-P3.20-D0.8",
+          "BUZZER1",
+          {
+            "Manufacturer Part": "FS6737",
+            "Manufacturer": "FUET(福声科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2972844"
+          }
+        ],
+        [
+          "DHT11",
+          1,
+          "SENSOR-TH_DHT11",
+          "DHT11",
+          {
+            "Manufacturer Part": "DHT11",
+            "Manufacturer": "广州奥松",
+            "Supplier": "LCSC",
+            "Supplier Part": "C117051"
+          }
+        ],
+        [
+          "LED",
+          1,
+          "LED-TH_BD5.9-P2.54-RD_RED",
+          "LED",
+          {
+            "Manufacturer Part": "333-2SURD/S530-A3",
+            "Manufacturer": "EVERLIGHT(亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C87271"
+          }
+        ],
+        [
+          "2.54-1*19P母",
+          2,
+          "HDR-TH_19P-P2.54-V-F",
+          "LEFT,RIGHT",
+          {
+            "Manufacturer Part": "2.54-1*19P母",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C319202"
+          }
+        ],
+        [
+          "HS96L03W2C03",
+          1,
+          "OLED-TH_L27.8-W27.2-P2.54_C9900033791",
+          "OLED",
+          {
+            "Manufacturer Part": "HS96L03W2C03",
+            "Manufacturer": "HS(汉昇)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5248080"
+          }
+        ],
+        [
+          "DB125-2.54-2P-GN",
+          1,
+          "CONN-TH_DB125-2.54-2P-GN",
+          "POWER",
+          {
+            "Manufacturer Part": "DB125-2.54-2P-GN-S",
+            "Manufacturer": "DORABO(地博电气)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C918120"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SS-12D11-G030",
+          1,
+          "SW-TH_5P-P4.70_SS-12D11-G030",
+          "SWITCH",
+          {
+            "Manufacturer Part": "SS-12D11-G030",
+            "Manufacturer": "G-Switch(品赞)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C17179526"
+          }
+        ]
+      ],
+      "updateTime": 1743062361,
+      "createTime": 1741253680,
+      "histories": [],
+      "created_at": "2025-03-06 15:04:40",
+      "updated_at": "2025-03-27 13:29:21"
+    },
+    {
+      "uuid": "7f069088aa4040e1ea063c3f82c00dd9",
+      "puuid": "2447aa828e21a6532d52d17e8565a262",
+      "title": "PCB_POTENTIAL PCB_2",
+      "filename": "PCB_POTENTIAL PCB_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "238f7130b74e4d8cbbd8e4480294e0f1": 2,
+        "17412ae1dd56412bab5905641ae023e4": 1,
+        "41a51ca334f64cac847f1efb25167813": 1,
+        "f18b5f2608ec43bf9d02d9e652b9ea0a": 1,
+        "08631d89f1134ac8bb73c3bef2888e81": 1,
+        "cc1a58f252aa49f99e667e5e57068694": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "BUZZER",
+          1,
+          "BUZ-TH_BD6.7-P3.20-D0.8",
+          "BUZZER1",
+          {
+            "Manufacturer Part": "FS6737",
+            "Manufacturer": "FUET(福声科技)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2972844"
+          }
+        ],
+        [
+          "DHT11",
+          1,
+          "SENSOR-TH_DHT11",
+          "DHT11",
+          {
+            "Manufacturer Part": "DHT11",
+            "Manufacturer": "广州奥松",
+            "Supplier": "LCSC",
+            "Supplier Part": "C117051"
+          }
+        ],
+        [
+          "LED",
+          1,
+          "LED-TH_BD5.9-P2.54-RD_RED",
+          "LED",
+          {
+            "Manufacturer Part": "333-2SURD/S530-A3",
+            "Manufacturer": "EVERLIGHT(亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C87271"
+          }
+        ],
+        [
+          "2.54-1*19P母",
+          2,
+          "HDR-TH_19P-P2.54-V-F",
+          "RIGHT,LEFT",
+          {
+            "Manufacturer Part": "2.54-1*19P母",
+            "Manufacturer": "BOOMELE(博穆精密)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C319202"
+          }
+        ],
+        [
+          "HS96L03W2C03",
+          1,
+          "OLED-TH_L27.8-W27.2-P2.54_C9900033791",
+          "OLED",
+          {
+            "Manufacturer Part": "HS96L03W2C03",
+            "Manufacturer": "HS(汉昇)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5248080"
+          }
+        ],
+        [
+          "DB125-2.54-2P-GN",
+          1,
+          "CONN-TH_DB125-2.54-2P-GN",
+          "POWER",
+          {
+            "Manufacturer Part": "DB125-2.54-2P-GN-S",
+            "Manufacturer": "DORABO(地博电气)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C918120"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SS-12D11-G030",
+          1,
+          "SW-TH_5P-P4.70_SS-12D11-G030",
+          "SWITCH",
+          {
+            "Manufacturer Part": "SS-12D11-G030",
+            "Manufacturer": "G-Switch(品赞)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C17179526"
+          }
+        ]
+      ],
+      "updateTime": 1743062423,
+      "createTime": 1741257777,
+      "histories": [],
+      "created_at": "2025-03-06 16:12:57",
+      "updated_at": "2025-03-27 13:30:23"
+    }
+  ],
+  "sort": [],
+  "title": "POTENTIAL PCB",
+  "foldername": "POTENTIAL PCB",
+  "schfilename": "POTENTIAL PCB.json",
+  "schfilemtime": 1743062361194
+}
